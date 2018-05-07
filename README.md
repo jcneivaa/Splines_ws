@@ -22,7 +22,7 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+| Juan Camilo Neiva Aranguren           | jcneivaa            |
 
 ## Entrega
 
